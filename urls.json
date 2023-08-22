@@ -1,1 +1,10 @@
-{"t": {"file": "ttick.svg"}, "12": {"url": "http://127.0.0.1:5000/"}, "go": {"url": "http://www.google.com"}, "cv": {"file": "cvbg-sanfrancisco.jpg"}, "yoo": {"url": "http://www.google.com"}}
+{
+  "t": { "file": "ttick.svg" },
+  "12": { "url": "http://127.0.0.1:5000/" },
+  "go": { "url": "http://www.google.com" },
+  "cv": { "file": "cvbg-sanfrancisco.jpg" },
+  "yoo": { "url": "http://www.google.com" },
+  "69087": { "url": "http://127.0.0.1:5000/" },
+  "4545": { "file": "4545meal.webp" },
+  "meal": { "file": "mealmeal2x.jpg" }
+}
